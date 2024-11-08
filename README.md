@@ -13,6 +13,12 @@ conda create --name open-flamingo python=3.9.20
 ```
 conda activate open-flamingo
 ```
+**Recommended step [Optional]:** If you are using any server like unity, and you don't have space in your home folder, you could store cache at a different location, by adding these lines in .bashrc and run `source .bashrc`:
+```
+export TRANSFORMERS_CACHE=/scratch/workspace/<folder-name>
+export HF_HOME=/scratch/workspace/<folder-name>
+```
+
 - To install the requirements, run the below command
 ```
 pip install -r open-flamingo-requirements.txt
