@@ -72,3 +72,5 @@ class CaptionDataset(Dataset):
             "caption": caption,
             "image_id": self.data_dict[image_id]["id"]
         }
+    
+class VqaDataset(Dataset):
