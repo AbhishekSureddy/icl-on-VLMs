@@ -1,0 +1,21 @@
+prompt_template_1: 
+<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose:
+result: giving not visible for all images
+Acc = 0
+
+prompt_template_2:
+The nose is a prominent feature located in the center of the face, serving as the primary organ for breathing and smell.
+It typically sits between the eyes, above the mouth, and forms a central part of facial structure and symmetry.
+<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose: not visible<image> key-point visibility for nose:
+Acc = 3/100
+
+prompt_template_3
+The nose is a prominent feature located in the center of the face, serving as the primary organ for breathing and smell.
+It typically sits between the eyes, above the mouth, and forms a central part of facial structure and symmetry. 
+I will give a series of example images and corresponding output. The output would be visible if the image contains Nose, 
+else the output would be not visible. Use the examples and answer for the last image<image> Output: not visible<image> Output: not visible<image> Output: not visible<image> Output: not visible<image> Output:
+
+decent Acc, doing better
+but too many false positives and false negatives
+
+## removing all images having multiple persons in it

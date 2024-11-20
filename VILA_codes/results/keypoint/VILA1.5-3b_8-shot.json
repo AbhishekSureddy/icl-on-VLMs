@@ -1,0 +1,4186 @@
+{
+    "yes": [
+        {
+            "idx": 1,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 3,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 4,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 5,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 6,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 7,
+            "output": "The first image shows a"
+        },
+        {
+            "idx": 9,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 10,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 11,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 14,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 17,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 18,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 19,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 21,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 22,
+            "output": "not visible"
+        },
+        {
+            "idx": 24,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 25,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 26,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 27,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 28,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 30,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 31,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 34,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 35,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 37,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 38,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 39,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 42,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 43,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 44,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 46,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 48,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 49,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 50,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 51,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 52,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 53,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 54,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 55,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 56,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 57,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 58,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 59,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 60,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 61,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 62,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 63,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 64,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 66,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 67,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 68,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 69,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 78,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 81,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 84,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 85,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 86,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 87,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 91,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 92,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 95,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 96,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 98,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 101,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 102,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 106,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 110,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 111,
+            "output": "not visible"
+        },
+        {
+            "idx": 114,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 115,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 119,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 124,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 125,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 129,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 130,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 131,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 134,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 135,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 136,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 137,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 139,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 140,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 141,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 150,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 152,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 156,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 157,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 158,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 162,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 164,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 166,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 167,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 170,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 171,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 174,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 176,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 179,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 180,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 183,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 185,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 186,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 187,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 190,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 192,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 193,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 196,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 198,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 199,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 204,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 205,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 207,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 209,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 210,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 211,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 212,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 215,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 216,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 217,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 218,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 220,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 222,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 223,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 226,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 227,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 228,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 230,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 231,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 232,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 233,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 247,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 252,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 258,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 262,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 263,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 266,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 273,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 276,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 277,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 278,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 280,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 281,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 284,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 285,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 286,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 288,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 289,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 291,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 292,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 293,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 297,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 298,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 299,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 300,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 301,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 302,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 305,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 307,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 309,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 310,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 311,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 312,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 313,
+            "output": "The images provided showcase"
+        },
+        {
+            "idx": 315,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 316,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 317,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 318,
+            "output": "not visible"
+        },
+        {
+            "idx": 319,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 320,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 321,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 322,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 324,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 325,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 326,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 328,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 329,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 331,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 332,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 333,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 335,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 336,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 337,
+            "output": "not visible"
+        },
+        {
+            "idx": 339,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 340,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 342,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 344,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 346,
+            "output": "not visible"
+        },
+        {
+            "idx": 348,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 349,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 350,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 351,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 352,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 355,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 359,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 360,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 361,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 363,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 365,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 367,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 368,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 371,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 372,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 373,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 374,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 375,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 376,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 378,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 380,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 381,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 382,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 383,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 384,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 385,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 386,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 387,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 388,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 389,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 390,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 391,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 392,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 393,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 394,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 395,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 397,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 399,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 400,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 401,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 402,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 403,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 404,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 405,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 407,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 408,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 410,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 411,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 412,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 413,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 415,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 416,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 417,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 418,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 419,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 422,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 424,
+            "output": "not visible"
+        },
+        {
+            "idx": 427,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 428,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 429,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 430,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 431,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 433,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 434,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 435,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 436,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 438,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 440,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 442,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 443,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 446,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 447,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 448,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 449,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 451,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 452,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 453,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 454,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 455,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 456,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 458,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 459,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 460,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 461,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 462,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 463,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 464,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 465,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 466,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 468,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 470,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 472,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 473,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 474,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 477,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 478,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 479,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 483,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 484,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 485,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 486,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 487,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 488,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 489,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 490,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 495,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 497,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 498,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 500,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 501,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 504,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 505,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 508,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 509,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 510,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 511,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 512,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 513,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 515,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 518,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 519,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 520,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 521,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 522,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 523,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 524,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 525,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 527,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 528,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 529,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 530,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 531,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 532,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 533,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 534,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 535,
+            "output": "not visible"
+        },
+        {
+            "idx": 537,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 539,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 540,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 541,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 542,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 543,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 544,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 546,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 548,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 549,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 550,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 551,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 552,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 553,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 555,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 556,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 557,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 559,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 561,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 562,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 563,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 564,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 565,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 566,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 567,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 568,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 570,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 571,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 573,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 574,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 575,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 577,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 578,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 582,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 584,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 585,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 587,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 589,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 591,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 592,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 593,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 597,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 598,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 600,
+            "output": "not visible"
+        },
+        {
+            "idx": 602,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 603,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 604,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 605,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 606,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 608,
+            "output": "not visible"
+        },
+        {
+            "idx": 609,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 610,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 611,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 612,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 613,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 615,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 616,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 617,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 618,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 619,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 622,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 623,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 624,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 625,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 626,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 627,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 630,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 631,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 632,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 633,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 635,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 636,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 637,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 641,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 642,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 647,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 652,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 653,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 656,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 658,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 661,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 663,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 664,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 666,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 667,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 668,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 670,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 671,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 672,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 674,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 675,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 676,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 677,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 679,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 680,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 682,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 683,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 684,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 685,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 686,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 687,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 689,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 690,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 691,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 693,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 694,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 695,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 696,
+            "output": "not visible"
+        },
+        {
+            "idx": 698,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 702,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 703,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 704,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 705,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 706,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 707,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 709,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 712,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 714,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 715,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 716,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 717,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 718,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 719,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 720,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 722,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 723,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 725,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 726,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 727,
+            "output": "The first image shows a"
+        },
+        {
+            "idx": 729,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 731,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 732,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 733,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 734,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 735,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 737,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 738,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 739,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 740,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 741,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 742,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 745,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 746,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 747,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 748,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 749,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 750,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 751,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 753,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 756,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 757,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 759,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 760,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 764,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 765,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 766,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 769,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 770,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 771,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 774,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 775,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 776,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 777,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 778,
+            "output": "not visible"
+        },
+        {
+            "idx": 780,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 781,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 782,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 785,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 786,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 787,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 788,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 790,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 791,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 792,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 793,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 794,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 796,
+            "output": "not visible"
+        },
+        {
+            "idx": 797,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 798,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 800,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 801,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 802,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 803,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 804,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 806,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 807,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 808,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 809,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 810,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 811,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 812,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 813,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 814,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 816,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 817,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 818,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 819,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 820,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 821,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 823,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 824,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 825,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 826,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 827,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 828,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 829,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 830,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 831,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 832,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 835,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 837,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 838,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 839,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 841,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 843,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 844,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 845,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 846,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 847,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 848,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 849,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 851,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 854,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 858,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 859,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 860,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 861,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 862,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 863,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 865,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 866,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 867,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 868,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 869,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 871,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 872,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 876,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 879,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 880,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 883,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 886,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 888,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 891,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 892,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 893,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 894,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 896,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 897,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 899,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 900,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 901,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 902,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 903,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 904,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 905,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 906,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 907,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 908,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 909,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 910,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 912,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 913,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 915,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 916,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 919,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 920,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 921,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 923,
+            "output": "not visible"
+        },
+        {
+            "idx": 924,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 926,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 927,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 928,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 929,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 930,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 931,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 932,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 933,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 934,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 936,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 937,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 938,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 939,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 941,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 942,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 945,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 947,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 949,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 951,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 952,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 953,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 956,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 957,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 958,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 959,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 960,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 961,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 962,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 964,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 965,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 966,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 969,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 971,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 972,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 973,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 974,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 975,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 976,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 977,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 978,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 979,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 982,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 983,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 984,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 986,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 987,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 988,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 990,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 992,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 993,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 995,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 996,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 997,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 999,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 1000,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1002,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1003,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1004,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1005,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1006,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1007,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1008,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1010,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1012,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1014,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1015,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1017,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1019,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1020,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1021,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1022,
+            "output": "not visible"
+        },
+        {
+            "idx": 1024,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1028,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1029,
+            "output": "The nose is located in"
+        },
+        {
+            "idx": 1030,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1037,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 1038,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1039,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1044,
+            "output": "The nose is a prominent"
+        }
+    ],
+    "no": [
+        {
+            "idx": 0,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 2,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 8,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 12,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 13,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 15,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 16,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 20,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 23,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 29,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 32,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 33,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 36,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 40,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 41,
+            "output": "not visible"
+        },
+        {
+            "idx": 45,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 47,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 65,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 70,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 71,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 72,
+            "output": "The first image shows a"
+        },
+        {
+            "idx": 73,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 74,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 75,
+            "output": "The images provided do not"
+        },
+        {
+            "idx": 76,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 77,
+            "output": "not visible"
+        },
+        {
+            "idx": 79,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 80,
+            "output": "not visible"
+        },
+        {
+            "idx": 82,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 83,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 88,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 89,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 90,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 93,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 94,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 97,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 99,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 100,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 103,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 104,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 105,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 107,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 108,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 109,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 112,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 113,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 116,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 117,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 118,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 120,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 121,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 122,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 123,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 126,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 127,
+            "output": "not visible"
+        },
+        {
+            "idx": 128,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 132,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 133,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 138,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 142,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 143,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 144,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 145,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 146,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 147,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 148,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 149,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 151,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 153,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 154,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 155,
+            "output": "not visible"
+        },
+        {
+            "idx": 159,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 160,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 161,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 163,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 165,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 168,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 169,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 172,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 173,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 175,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 177,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 178,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 181,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 182,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 184,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 188,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 189,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 191,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 194,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 195,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 197,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 200,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 201,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 202,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 203,
+            "output": "The images provided do not"
+        },
+        {
+            "idx": 206,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 208,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 213,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 214,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 219,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 221,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 224,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 225,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 229,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 234,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 235,
+            "output": "not visible"
+        },
+        {
+            "idx": 236,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 237,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 238,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 239,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 240,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 241,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 242,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 243,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 244,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 245,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 246,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 248,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 249,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 250,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 251,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 253,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 254,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 255,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 256,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 257,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 259,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 260,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 261,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 264,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 265,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 267,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 268,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 269,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 270,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 271,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 272,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 274,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 275,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 279,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 282,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 283,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 287,
+            "output": "The first image shows a"
+        },
+        {
+            "idx": 290,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 294,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 295,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 296,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 303,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 304,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 306,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 308,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 314,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 323,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 327,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 330,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 334,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 338,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 341,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 343,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 345,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 347,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 353,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 354,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 356,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 357,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 358,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 362,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 364,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 366,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 369,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 370,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 377,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 379,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 396,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 398,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 406,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 409,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 414,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 420,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 421,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 423,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 425,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 426,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 432,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 437,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 439,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 441,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 444,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 445,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 450,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 457,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 467,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 469,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 471,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 475,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 476,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 480,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 481,
+            "output": "The images provided do not"
+        },
+        {
+            "idx": 482,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 491,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 492,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 493,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 494,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 496,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 499,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 502,
+            "output": "The images provided do not"
+        },
+        {
+            "idx": 503,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 506,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 507,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 514,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 516,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 517,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 526,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 536,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 538,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 545,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 547,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 554,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 558,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 560,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 569,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 572,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 576,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 579,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 580,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 581,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 583,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 586,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 588,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 590,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 594,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 595,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 596,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 599,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 601,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 607,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 614,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 620,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 621,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 628,
+            "output": "The images provided showcase"
+        },
+        {
+            "idx": 629,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 634,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 638,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 639,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 640,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 643,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 644,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 645,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 646,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 648,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 649,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 650,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 651,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 654,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 655,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 657,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 659,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 660,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 662,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 665,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 669,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 673,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 678,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 681,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 688,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 692,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 697,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 699,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 700,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 701,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 708,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 710,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 711,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 713,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 721,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 724,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 728,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 730,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 736,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 743,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 744,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 752,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 754,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 755,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 758,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 761,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 762,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 763,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 767,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 768,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 772,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 773,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 779,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 783,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 784,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 789,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 795,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 799,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 805,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 815,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 822,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 833,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 834,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 836,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 840,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 842,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 850,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 852,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 853,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 855,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 856,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 857,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 864,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 870,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 873,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 874,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 875,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 877,
+            "output": "The nose is visible in"
+        },
+        {
+            "idx": 878,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 881,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 882,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 884,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 885,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 887,
+            "output": "not visible"
+        },
+        {
+            "idx": 889,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 890,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 895,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 898,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 911,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 914,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 917,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 918,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 922,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 925,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 935,
+            "output": "The images provided do not"
+        },
+        {
+            "idx": 940,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 943,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 944,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 946,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 948,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 950,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 954,
+            "output": "The images provided are as"
+        },
+        {
+            "idx": 955,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 963,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 967,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 968,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 970,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 980,
+            "output": "not visible"
+        },
+        {
+            "idx": 981,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 985,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 989,
+            "output": "The images provided are not"
+        },
+        {
+            "idx": 991,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 994,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 998,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1001,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1009,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1011,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1013,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1016,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1018,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1023,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1025,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1026,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1027,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 1031,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1032,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1033,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1034,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1035,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 1036,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1040,
+            "output": "The nose is a prominent"
+        },
+        {
+            "idx": 1041,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 1042,
+            "output": "The nose is not visible"
+        },
+        {
+            "idx": 1043,
+            "output": "The nose is a prominent"
+        }
+    ]
+}
