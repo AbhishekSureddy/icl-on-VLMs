@@ -4,13 +4,13 @@ import torch
 from PIL import Image
 import requests
 
-def get_flamingo_model_processor_tok(fl_model = "openflamingo/OpenFlamingo-3B-vitl-mpt1b"):
+def get_flamingo_model_processor_tok(fl_model = "openflamingo/OpenFlamingo-3B-vitl-mpt1b", enc_path="anas-awadalla/mpt-1b-redpajama-200b",c_att=1):
     model, image_processor, tokenizer = create_model_and_transforms(
         clip_vision_encoder_path="ViT-L-14",
         clip_vision_encoder_pretrained="openai",
-        lang_encoder_path="anas-awadalla/mpt-1b-redpajama-200b",
-        tokenizer_path="anas-awadalla/mpt-1b-redpajama-200b",
-        cross_attn_every_n_layers=1,
+        lang_encoder_path=enc_path,
+        tokenizer_path=enc_path,
+        cross_attn_every_n_layers=c_att,
         # cache_dir="/scratch/workspace/asureddy_umass_edu-llm_alignment/hf-cache"  # Defaults to ~/.cache
     )
     # grab model checkpoint from huggingface hub
