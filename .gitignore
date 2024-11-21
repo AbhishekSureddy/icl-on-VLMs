@@ -1,0 +1,5 @@
+dataset/*
+.ipynb*
+slurm*
+*__pycache__*
+flickr8k*

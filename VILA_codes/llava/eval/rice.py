@@ -71,7 +71,7 @@ class RICES:
         features = torch.cat(features)
         return features
 
-    def find(self, batch, num_examples):
+    def find(self, batch, num_examples, return_indices=False):
         """
         Get the top num_examples most similar examples to the images.
         """
@@ -99,6 +99,7 @@ class RICES:
 
             # Get the indices of the 'num_examples' most similar images
             indices = similarity.argsort(dim=-1, descending=True)[:, :num_examples]
-
+        if return_indices:
+            return [[int(i) for i in reversed(row)] for row in indices]
         # Return with the most similar images last
         return [[self.dataset[i] for i in reversed(row)] for row in indices]

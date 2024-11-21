@@ -1,7 +1,7 @@
 import json
 import os
 
-from PIL import Image
+from PIL import Image, ImageDraw
 from torch.utils.data import Dataset
 import random
 
@@ -203,3 +203,86 @@ class KeyPPDataset(Dataset):
         }
         return results
         
+class KeyPointFaceDataset(Dataset):
+    def __init__(self, img_dir, annotations_path, is_train=False):
+        self.full_data = json.load(open(annotations_path))
+        self.must_keypoints = ['nose','left_eye','right_eye','left_ear','right_ear']
+
+        self.img_dir = img_dir
+        self.keypoints = ['nose',
+                   'left_eye',
+                   'right_eye',
+                   'left_ear',
+                   'right_ear',
+                   'left_shoulder',
+                   'right_shoulder',
+                   'left_elbow',
+                   'right_elbow',
+                   'left_wrist',
+                   'right_wrist',
+                   'left_hip',
+                   'right_hip',
+                   'left_knee',
+                   'right_knee',
+                   'left_ankle',
+                   'right_ankle']
+        # filter only things having all facial keypoints and # filter things having face size atleast 20x20
+        data = list(filter(lambda x: self._preprocess_kp(x['keypoints'], thresh=20), self.full_data['annotations']))
+        
+        
+        self.full_data['annotations'] = data
+        data = [self._process_kp_to_dict(ann['keypoints']) for ann in data]
+        self.full_data['dict_keypoints'] = data
+            
+    def _preprocess_kp(self, annotation, thresh=None):
+        # print(annotation)
+        kp_annotation = []
+        for idx, kp in enumerate(self.keypoints):
+            x,y,v = 3*idx, 3*idx+1, 3*idx+2
+            if kp in self.must_keypoints:
+                kp_annotation.append( (annotation[x],annotation[y],annotation[v]))
+        if thresh is None:
+            return all([v==2 for x,y,v in kp_annotation ])
+        xs = [x for x,y,_ in kp_annotation]
+        ys = [y for x,y,_ in kp_annotation]
+        return all([v==2 for x,y,v in kp_annotation ]) and (max(xs)-min(xs)>thresh or max(ys)-min(ys)>thresh)
+        
+    def _process_kp_to_dict(self, annotation):
+        kp_annotation = {}
+        for idx, kp in enumerate(self.keypoints):
+            x,y,v = 3*idx, 3*idx+1, 3*idx+2
+            if kp in self.must_keypoints:
+                kp_annotation[kp] =(annotation[x],annotation[y],annotation[v])
+        return kp_annotation
+        
+    def __len__(self):
+        return len(self.full_data['annotations'])
+
+    def get_img_path(self, image_id):
+        return os.path.join(self.img_dir, f"{image_id:012d}.jpg")
+
+    def __getitem__(self, idx):
+        img_path = self.get_img_path(self.full_data['annotations'][idx]['image_id'])
+        image = Image.open(img_path)
+        image.load()
+        results = {
+            "image_id": self.full_data['annotations'][idx]['image_id'],
+            "image": image,
+            # 'iscrowd': self.full_data['annotations'][idx]['iscrowd'],
+            # 'area': self.full_data['annotations'][idx]['area']
+        }
+        for kp in self.must_keypoints:
+            results[kp] = self.full_data['dict_keypoints'][idx][kp]
+        return results
+
+    def get_item_with_support(self, idx, kp):
+        results = self[idx]
+        x,y,v = results[kp]
+        width, height = results['image'].size
+        image = Image.new('RGB', (width, height), 'gray')
+        draw = ImageDraw.Draw(image)
+        draw.circle([x, y],5,fill='red')
+        image.load()
+        results['support_image'] = image
+        results["keypoint_chosen"] = kp
+        return results
