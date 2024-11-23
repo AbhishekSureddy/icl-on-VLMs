@@ -3,3 +3,4 @@ dataset/*
 slurm*
 *__pycache__*
 flickr8k*
+*.pickle
