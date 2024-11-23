@@ -144,7 +144,7 @@ if __name__ == "__main__":
     test_df = pd.DataFrame(test_set, columns = ['folder', 'target_label', "filename", 'pick_n_folders', 'pick_n_files_names', 'few_shot_query', 'demo_images'])
     
     test_df.drop(['demo_images'], axis=1).to_pickle(input_args.output_dir)
-
+    test_df = test_df.sample(n=4000, random_state=2024)
 
     print("######### Running inference")
 
