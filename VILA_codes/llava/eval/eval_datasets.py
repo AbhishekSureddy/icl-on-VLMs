@@ -4,6 +4,9 @@ import os
 from PIL import Image, ImageDraw
 from torch.utils.data import Dataset
 import random
+import pandas as pd
+from sklearn.model_selection import train_test_split
+from collections import Counter
 
 class CaptionDataset(Dataset):
     def __init__(
@@ -74,6 +77,42 @@ class CaptionDataset(Dataset):
             "image_id": self.data_dict[image_id]["id"]
         }
     
+class FlickrCaptioningDataset(Dataset):
+    def __init__(
+        self,
+        image_dir_path,
+        annotations_path,
+        istrain = True
+    ):
+        self.image_dir_path = image_dir_path
+
+        df = pd.read_csv(annotations_path)
+        res_df = df.groupby(by='image').aggregate(lambda x: list(x)).reset_index()
+        train, test = train_test_split(res_df, test_size=0.2, random_state=42)
+        if istrain:
+            self.data = train.to_dict('records')
+        else:
+            self.data = test.to_dict('records')
+        
+
+    def __len__(self):
+        return len(self.data)
+
+    def __getitem__(self, idx):
+        image = Image.open(
+            os.path.join(
+                self.image_dir_path, self.data[idx]["image"]
+            )
+        )
+        
+        caption = self.data[idx]["caption"][0]
+        return {
+            "image": image,
+            "caption": caption,
+            "captions": self.data[idx]["caption"],
+            "image_id": self.data[idx]["image"]
+        }
+    
 class VQADataset(Dataset):
     def __init__(
         self, image_dir_path, question_path, annotations_path, is_train, dataset_name, take_unique_image=True
@@ -133,6 +172,53 @@ class VQADataset(Dataset):
             results["answers"] = [a["answer"] for a in answers["answers"]]
         return results
     
+
+class TextVQADataset(Dataset):
+    def __init__(
+        self, image_dir_path, annotations_path
+    ):
+        self.data = json.load(open(annotations_path, "r"))["data"]
+        self.image_dir_path = image_dir_path
+        
+    def __len__(self):
+        return len(self.data)
+
+    def get_img_path(self, img_id):
+        return os.path.join(self.image_dir_path, f"{img_id}.jpg")
+
+    def most_frequent_string(self, strings):
+        """
+        Finds the most frequent string in an array of strings.
+        
+        :param strings: List of strings
+        :return: The most frequent string and its count
+        """
+        if not strings:
+            return None, 0  # Return None and 0 if the input list is empty
+    
+        # Count occurrences of each string
+        counts = Counter(strings)
+        
+        # Find the string with the maximum count
+        most_frequent = counts.most_common(1)[0]  # Returns a list of tuples [(string, count)]
+        return most_frequent[0]
+        
+    def __getitem__(self, idx):
+        question = self.data[idx]["question"]
+        img_path = self.get_img_path(self.data[idx]["image_id"])
+        image = Image.open(img_path)
+        image.load()
+        results = {
+            "image": image,
+            "image_id": self.data[idx]["image_id"],
+            "question": question,
+            "question_id": self.data[idx]["question_id"],
+            "answers": self.data[idx]["answers"],
+            
+        }
+        results["best_answer"] = self.most_frequent_string(results["answers"])
+        return results
+
 class KeyPPDataset(Dataset):
     def __init__(self, img_dir, annotations_path, kp_chosen="nose", is_train=False):
         self.full_data = json.load(open(annotations_path))
