@@ -1,6 +1,10 @@
 CIs
+cs682
 data_prepare
 demo_images
 demo_trt_llm
 inference_test
+keypoint_scripts
 llava
+results
+textvqa_scripts
